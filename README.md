@@ -1,2 +1,3 @@
+
 # Swift_Inference
-一种经过优化的推理引擎核心。
+本项目基于 [LLM_infer](https://github.com/goldenfox2025/LLM_infer) 进行优化。
